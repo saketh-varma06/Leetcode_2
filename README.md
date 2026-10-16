@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/saketh-varma06/Leetcode_2/tree/master/0136-single-number) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/saketh-varma06/Leetcode_2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/saketh-varma06/Leetcode_2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/saketh-varma06/Leetcode_2/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
