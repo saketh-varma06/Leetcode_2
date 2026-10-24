@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/saketh-varma06/Leetcode_2/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/saketh-varma06/Leetcode_2/tree/master/0136-single-number) |
 | [0496-next-greater-element-i](https://github.com/saketh-varma06/Leetcode_2/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/saketh-varma06/Leetcode_2/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/saketh-varma06/Leetcode_2/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/saketh-varma06/Leetcode_2/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/saketh-varma06/Leetcode_2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/saketh-varma06/Leetcode_2/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/saketh-varma06/Leetcode_2/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/saketh-varma06/Leetcode_2/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saketh-varma06/Leetcode_2/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/saketh-varma06/Leetcode_2/tree/master/1441-build-an-array-with-stack-operations) |
@@ -74,5 +76,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/saketh-varma06/Leetcode_2/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/saketh-varma06/Leetcode_2/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/saketh-varma06/Leetcode_2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
