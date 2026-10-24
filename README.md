@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/saketh-varma06/Leetcode_2/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/saketh-varma06/Leetcode_2/tree/master/0136-single-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/saketh-varma06/Leetcode_2/tree/master/1441-build-an-array-with-stack-operations) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/saketh-varma06/Leetcode_2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/saketh-varma06/Leetcode_2/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/saketh-varma06/Leetcode_2/tree/master/0054-spiral-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/saketh-varma06/Leetcode_2/tree/master/1441-build-an-array-with-stack-operations) |
 ## String
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/saketh-varma06/Leetcode_2/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saketh-varma06/Leetcode_2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
