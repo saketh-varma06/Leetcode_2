@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/saketh-varma06/Leetcode_2/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saketh-varma06/Leetcode_2/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/saketh-varma06/Leetcode_2/tree/master/0136-single-number) |
+| [0289-game-of-life](https://github.com/saketh-varma06/Leetcode_2/tree/master/0289-game-of-life) |
 | [0496-next-greater-element-i](https://github.com/saketh-varma06/Leetcode_2/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/saketh-varma06/Leetcode_2/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/saketh-varma06/Leetcode_2/tree/master/0946-validate-stack-sequences) |
@@ -50,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/saketh-varma06/Leetcode_2/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saketh-varma06/Leetcode_2/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/saketh-varma06/Leetcode_2/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/saketh-varma06/Leetcode_2/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/saketh-varma06/Leetcode_2/tree/master/0289-game-of-life) |
 | [0946-validate-stack-sequences](https://github.com/saketh-varma06/Leetcode_2/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/saketh-varma06/Leetcode_2/tree/master/1441-build-an-array-with-stack-operations) |
 ## String
