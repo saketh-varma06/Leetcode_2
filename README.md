@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/saketh-varma06/Leetcode_2/tree/master/0048-rotate-image) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saketh-varma06/Leetcode_2/tree/master/1248-count-number-of-nice-subarrays) |
 | [2409-count-days-spent-together](https://github.com/saketh-varma06/Leetcode_2/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/saketh-varma06/Leetcode_2/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/saketh-varma06/Leetcode_2/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saketh-varma06/Leetcode_2/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/saketh-varma06/Leetcode_2/tree/master/0136-single-number) |
 | [0496-next-greater-element-i](https://github.com/saketh-varma06/Leetcode_2/tree/master/0496-next-greater-element-i) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/saketh-varma06/Leetcode_2/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saketh-varma06/Leetcode_2/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
