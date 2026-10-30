@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saketh-varma06/Leetcode_2/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/saketh-varma06/Leetcode_2/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/saketh-varma06/Leetcode_2/tree/master/0204-count-primes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saketh-varma06/Leetcode_2/tree/master/1248-count-number-of-nice-subarrays) |
 | [2409-count-days-spent-together](https://github.com/saketh-varma06/Leetcode_2/tree/master/2409-count-days-spent-together) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saketh-varma06/Leetcode_2/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/saketh-varma06/Leetcode_2/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
