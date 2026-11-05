@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/saketh-varma06/Leetcode_2/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/saketh-varma06/Leetcode_2/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/saketh-varma06/Leetcode_2/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/saketh-varma06/Leetcode_2/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saketh-varma06/Leetcode_2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saketh-varma06/Leetcode_2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -190,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/saketh-varma06/Leetcode_2/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saketh-varma06/Leetcode_2/tree/master/0701-insert-into-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saketh-varma06/Leetcode_2/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saketh-varma06/Leetcode_2/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
