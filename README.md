@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/saketh-varma06/Leetcode_2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/saketh-varma06/Leetcode_2/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/saketh-varma06/Leetcode_2/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/saketh-varma06/Leetcode_2/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/saketh-varma06/Leetcode_2/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/saketh-varma06/Leetcode_2/tree/master/0198-house-robber) |
+| [3693-climbing-stairs-ii](https://github.com/saketh-varma06/Leetcode_2/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
