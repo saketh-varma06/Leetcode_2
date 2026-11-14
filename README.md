@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/saketh-varma06/Leetcode_2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2747-count-zero-request-servers](https://github.com/saketh-varma06/Leetcode_2/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/saketh-varma06/Leetcode_2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/saketh-varma06/Leetcode_2/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/saketh-varma06/Leetcode_2/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -110,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/saketh-varma06/Leetcode_2/tree/master/1248-count-number-of-nice-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/saketh-varma06/Leetcode_2/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/saketh-varma06/Leetcode_2/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/saketh-varma06/Leetcode_2/tree/master/1248-count-number-of-nice-subarrays) |
+| [3364-minimum-positive-sum-subarray](https://github.com/saketh-varma06/Leetcode_2/tree/master/3364-minimum-positive-sum-subarray) |
 ## Enumeration
 |  |
 | ------- |
