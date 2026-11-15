@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/saketh-varma06/Leetcode_2/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/saketh-varma06/Leetcode_2/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3693-climbing-stairs-ii](https://github.com/saketh-varma06/Leetcode_2/tree/master/3693-climbing-stairs-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/saketh-varma06/Leetcode_2/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/saketh-varma06/Leetcode_2/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saketh-varma06/Leetcode_2/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/saketh-varma06/Leetcode_2/tree/master/0289-game-of-life) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/saketh-varma06/Leetcode_2/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -237,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/saketh-varma06/Leetcode_2/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/saketh-varma06/Leetcode_2/tree/master/1791-find-center-of-star-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/saketh-varma06/Leetcode_2/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
