@@ -230,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/saketh-varma06/Leetcode_2/tree/master/0113-path-sum-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/saketh-varma06/Leetcode_2/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
