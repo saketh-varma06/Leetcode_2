@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/saketh-varma06/Leetcode_2/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/saketh-varma06/Leetcode_2/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/saketh-varma06/Leetcode_2/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/saketh-varma06/Leetcode_2/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/saketh-varma06/Leetcode_2/tree/master/0204-count-primes) |
 | [0289-game-of-life](https://github.com/saketh-varma06/Leetcode_2/tree/master/0289-game-of-life) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saketh-varma06/Leetcode_2/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/saketh-varma06/Leetcode_2/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saketh-varma06/Leetcode_2/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/saketh-varma06/Leetcode_2/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/saketh-varma06/Leetcode_2/tree/master/0289-game-of-life) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/saketh-varma06/Leetcode_2/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/saketh-varma06/Leetcode_2/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saketh-varma06/Leetcode_2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saketh-varma06/Leetcode_2/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/saketh-varma06/Leetcode_2/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saketh-varma06/Leetcode_2/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saketh-varma06/Leetcode_2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saketh-varma06/Leetcode_2/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/saketh-varma06/Leetcode_2/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -240,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/saketh-varma06/Leetcode_2/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/saketh-varma06/Leetcode_2/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/saketh-varma06/Leetcode_2/tree/master/3898-find-the-degree-of-each-vertex) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/saketh-varma06/Leetcode_2/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
