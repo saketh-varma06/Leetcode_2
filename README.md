@@ -84,12 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/saketh-varma06/Leetcode_2/tree/master/0289-game-of-life) |
 | [0946-validate-stack-sequences](https://github.com/saketh-varma06/Leetcode_2/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/saketh-varma06/Leetcode_2/tree/master/1441-build-an-array-with-stack-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/saketh-varma06/Leetcode_2/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## String
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saketh-varma06/Leetcode_2/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/saketh-varma06/Leetcode_2/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saketh-varma06/Leetcode_2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/saketh-varma06/Leetcode_2/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/saketh-varma06/Leetcode_2/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
