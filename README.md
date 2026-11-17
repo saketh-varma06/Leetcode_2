@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saketh-varma06/Leetcode_2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saketh-varma06/Leetcode_2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/saketh-varma06/Leetcode_2/tree/master/0496-next-greater-element-i) |
+| [0724-find-pivot-index](https://github.com/saketh-varma06/Leetcode_2/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/saketh-varma06/Leetcode_2/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/saketh-varma06/Leetcode_2/tree/master/0946-validate-stack-sequences) |
 | [0997-find-the-town-judge](https://github.com/saketh-varma06/Leetcode_2/tree/master/0997-find-the-town-judge) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/saketh-varma06/Leetcode_2/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saketh-varma06/Leetcode_2/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/saketh-varma06/Leetcode_2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/saketh-varma06/Leetcode_2/tree/master/3364-minimum-positive-sum-subarray) |
