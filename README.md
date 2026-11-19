@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/saketh-varma06/Leetcode_2/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/saketh-varma06/Leetcode_2/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/saketh-varma06/Leetcode_2/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Array
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/saketh-varma06/Leetcode_2/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/saketh-varma06/Leetcode_2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/saketh-varma06/Leetcode_2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/saketh-varma06/Leetcode_2/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/saketh-varma06/Leetcode_2/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/saketh-varma06/Leetcode_2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/saketh-varma06/Leetcode_2/tree/master/3364-minimum-positive-sum-subarray) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saketh-varma06/Leetcode_2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/saketh-varma06/Leetcode_2/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/saketh-varma06/Leetcode_2/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/saketh-varma06/Leetcode_2/tree/master/2747-count-zero-request-servers) |
 ## Two Pointers
 |  |
