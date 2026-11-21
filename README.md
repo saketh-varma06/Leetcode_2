@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/saketh-varma06/Leetcode_2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saketh-varma06/Leetcode_2/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/saketh-varma06/Leetcode_2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2073-time-needed-to-buy-tickets](https://github.com/saketh-varma06/Leetcode_2/tree/master/2073-time-needed-to-buy-tickets) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/saketh-varma06/Leetcode_2/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/saketh-varma06/Leetcode_2/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/saketh-varma06/Leetcode_2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/saketh-varma06/Leetcode_2/tree/master/0289-game-of-life) |
 | [0946-validate-stack-sequences](https://github.com/saketh-varma06/Leetcode_2/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/saketh-varma06/Leetcode_2/tree/master/1441-build-an-array-with-stack-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/saketh-varma06/Leetcode_2/tree/master/2073-time-needed-to-buy-tickets) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/saketh-varma06/Leetcode_2/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## String
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/saketh-varma06/Leetcode_2/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/saketh-varma06/Leetcode_2/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
 |  |
 | ------- |
