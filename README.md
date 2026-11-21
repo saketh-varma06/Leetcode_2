@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saketh-varma06/Leetcode_2/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/saketh-varma06/Leetcode_2/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saketh-varma06/Leetcode_2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saketh-varma06/Leetcode_2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/saketh-varma06/Leetcode_2/tree/master/0496-next-greater-element-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/saketh-varma06/Leetcode_2/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/saketh-varma06/Leetcode_2/tree/master/0143-reorder-list) |
 ## Tree
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saketh-varma06/Leetcode_2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0143-reorder-list](https://github.com/saketh-varma06/Leetcode_2/tree/master/0143-reorder-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/saketh-varma06/Leetcode_2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search Tree
 |  |
@@ -276,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saketh-varma06/Leetcode_2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/saketh-varma06/Leetcode_2/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
