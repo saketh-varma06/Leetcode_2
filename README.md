@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saketh-varma06/Leetcode_2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saketh-varma06/Leetcode_2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saketh-varma06/Leetcode_2/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/saketh-varma06/Leetcode_2/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/saketh-varma06/Leetcode_2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/saketh-varma06/Leetcode_2/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/saketh-varma06/Leetcode_2/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/saketh-varma06/Leetcode_2/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/saketh-varma06/Leetcode_2/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saketh-varma06/Leetcode_2/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/saketh-varma06/Leetcode_2/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/saketh-varma06/Leetcode_2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/saketh-varma06/Leetcode_2/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/saketh-varma06/Leetcode_2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/saketh-varma06/Leetcode_2/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saketh-varma06/Leetcode_2/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/saketh-varma06/Leetcode_2/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/saketh-varma06/Leetcode_2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/saketh-varma06/Leetcode_2/tree/master/3364-minimum-positive-sum-subarray) |
 ## Enumeration
@@ -302,4 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/saketh-varma06/Leetcode_2/tree/master/1046-last-stone-weight) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/saketh-varma06/Leetcode_2/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/saketh-varma06/Leetcode_2/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
