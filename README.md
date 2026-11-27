@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/saketh-varma06/Leetcode_2/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/saketh-varma06/Leetcode_2/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/saketh-varma06/Leetcode_2/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/saketh-varma06/Leetcode_2/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/saketh-varma06/Leetcode_2/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/saketh-varma06/Leetcode_2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saketh-varma06/Leetcode_2/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/saketh-varma06/Leetcode_2/tree/master/0496-next-greater-element-i) |
 | [0997-find-the-town-judge](https://github.com/saketh-varma06/Leetcode_2/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saketh-varma06/Leetcode_2/tree/master/1248-count-number-of-nice-subarrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/saketh-varma06/Leetcode_2/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2747-count-zero-request-servers](https://github.com/saketh-varma06/Leetcode_2/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/saketh-varma06/Leetcode_2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/saketh-varma06/Leetcode_2/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/saketh-varma06/Leetcode_2/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
